@@ -1,0 +1,4 @@
+
+Código para fazer o arquivo ser lido com json e ser transformado em uma API
+
+json-server --watch backend/videos.json
