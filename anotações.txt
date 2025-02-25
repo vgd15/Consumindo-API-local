@@ -1,4 +1,3 @@
-
 Código para fazer o arquivo ser lido com json e ser transformado em uma API
-
+Se ainda não tiver instalado: npm install -g json-server
 json-server --watch backend/videos.json
